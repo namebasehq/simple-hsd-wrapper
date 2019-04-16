@@ -1,0 +1,5 @@
+api-key: TODO
+wallet-api-key: TODO
+http-host: 127.0.0.1
+wallet-http-host: 127.0.0.1
+network: testnet
